@@ -1,2 +1,0 @@
-# clone
-my second repository
